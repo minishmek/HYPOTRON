@@ -144,9 +144,9 @@ body {
 
 /* hypoxic_training */
 
-.information__title {
+/* .information__title { */
     /* убрать */
-    color: #333; 
+    /* color: #333; 
 
   
   font-weight: 600;
@@ -159,10 +159,10 @@ body {
   text-align: center;
 }
 
-.information__text {
+.information__text { */
     /* убрать */
-    color: #333; 
-
+    /* color: #333;  */
+/* 
   
   font-weight: 400;
   font-size: 18px;
@@ -177,9 +177,9 @@ body {
   width: 70%;
 }
 
-.information__titles {
+.information__titles { */
     /* убрать */
-    color: #333; 
+    /* color: #333; 
 
   
   font-weight: 700;
@@ -187,11 +187,11 @@ body {
   line-height: 40px;
   margin-bottom: 30px;
   max-width: 700px;
-}
+} */
 
-.information__list{
+/* .information__list{
     /* убрать */
-    color: #333; 
+    /* color: #333; 
 
   
   font-weight: 400;
@@ -202,15 +202,15 @@ body {
 
  .information__imgs, .informatiom__inner {
     /* убрать */
-    color: #333; 
+    /* color: #333; 
 
   
   display: flex;
 } 
 
-.device_table {
-    /* убрать */
-    color: #333; 
+.device_table { 
+    убрать */
+    /* color: #333; 
 
   
   width: 100%;
@@ -225,9 +225,9 @@ body {
 
 .td-one {
   padding-left: 10px;
-}
+} */
 
-td {
+/* td {
   border: 1px solid grey;
   height: 50px;
 }
@@ -244,22 +244,22 @@ td {
 .login__section,
 .registration__section {
   text-align: center;
-}
+} */
 
-.login__title,
+/* .login__title,
 .registration__title {
 
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   margin-top: 160px;
   font-size: 36px;
   font-weight: 200;
   margin-bottom: 20px;
 }
 
-.registration2__title {
+.registration2__title {  */
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   margin-top: 50px;
   font-size: 36px;
   font-weight: 200;
@@ -268,7 +268,7 @@ td {
 
 .visit-nav {
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   display: flex;
   justify-content: center;
 }
@@ -279,9 +279,8 @@ td {
 
 .visit-nav__link:last-child {
   margin-right: 0;
-}
-
-form {
+}  */
+/* form {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -294,7 +293,7 @@ form {
 .registration__login,
 .registration__pass {
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   width: 300px;
   padding: 10px;
   margin-top: 10px;
@@ -302,9 +301,9 @@ form {
   border-radius: 5px;
   color: #DCDCDC;
   background-color: rgba(0, 0, 0, 0.2);
-}
+} */
 
-.login__login:hover,
+/* .login__login:hover,
 .login__pass:hover,
 .registration__name:hover,
 .registration__login:hover,
@@ -333,11 +332,11 @@ form {
 .doctor__info,
 .patients {
   text-align: center;
-} 
+}  */
 
-.doctor__list {
+/* .doctor__list {
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   list-style: none;
   padding: 11px 23px;
   border: 2px solid #DCDCDC;
@@ -351,9 +350,9 @@ form {
 .doctor__list-item {
   margin-bottom: 20px;
       /* убрать */
-      color: #333; 
-}
-
+      /* color: #333; 
+} */
+/* 
 .registration__section,
 .my_patients__section {
   padding-top: 20px;
@@ -361,7 +360,7 @@ form {
 
 .patients__list-item {
       /* убрать */
-      color: #333; 
+      /* color: #333; 
   list-style: none;
   padding: 11px 23px;
   border: 2px solid #DCDCDC;
@@ -376,9 +375,9 @@ form {
 .patients__list-item:hover {
   
   background-color: #5F9EA0;
-}
+} */
 
-.patients__list-link {
+/* .patients__list-link {
   cursor: pointer;
 }
 
@@ -520,7 +519,7 @@ form {
     .aodp {
       text-align: center;
       
-    }
+    } */
 
 
 /* 
